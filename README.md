@@ -1,6 +1,6 @@
 # Usecase
 
-A public repository just usecase purposes.
+A public repository just for usecase purposes.
 
 ## Content
 
