@@ -2,11 +2,11 @@
     "features": [
         {
             "properties": {
-                "naam": "RWZI Culemborg",
-                "street": "Kruislaan",
-                "number": "1",
-                "city": "Culemborg"
-            }
+                "naam": "RWZI Culemborg"
+            },
+            "street": "Kruislaan",
+            "number": "1",
+            "city": "Culemborg"
         }
     ]
 }
