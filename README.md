@@ -1,6 +1,8 @@
 # Usecase
 
-Content of this repository:
+A public repository just usecase purposes.
+
+## Content
 
 -   [geojson_test.geojson](geojson_test.geojson)<br>
     A GeoJSON test dataset.
