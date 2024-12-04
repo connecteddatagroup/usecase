@@ -1,8 +1,9 @@
 {
     "features": [
         {
-            "naam": "RWZI Culemborg",
-            "adres": "Culemborg"
+            "properties": {
+                "naam": "RWZI Culemborg"
+            }
         }
     ]
 }
