@@ -4,9 +4,17 @@
             "properties": {
                 "naam": "RWZI Culemborg"
             },
-            "street": "Kruislaan",
-            "number": "1",
-            "city": "Culemborg"
+            "straat": "Parallelweg Oost",
+            "nummer": "23a",
+            "plaats": "Culemborg"
+        },
+        {
+            "properties": {
+                "naam": "RWZI Dreumel"
+            },
+            "straat": "Kooiweg",
+            "nummer": "3",
+            "plaats": "Dreumel"
         }
     ]
 }
