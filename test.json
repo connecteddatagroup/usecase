@@ -1,4 +1,8 @@
 {
-    "naam": "RWZI Culemborg",
-    "adres": "Culemborg"
+    "features": [
+        {
+            "naam": "RWZI Culemborg",
+            "adres": "Culemborg"
+        }
+    ]
 }
