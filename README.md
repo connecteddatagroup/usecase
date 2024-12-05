@@ -4,6 +4,10 @@ A public repository just for usecase purposes.
 
 ## Content
 
+-   [api_denodo_point.geojson](api_denodo_point.geojson)<br>
+    An API endpoint result of Denodo containing a geometry point.
+-   [api_denodo_polygon.geojson](api_denodo_polygon.geojson)<br>
+    An API endpoint result of Denodo containing a geometry polygon.
 -   [api_wsrl_rwzi_punten.csv](api_wsrl_rwzi_punten.csv)<br>
     A CSV dataset through Denodo.
 -   [rwzi_energy_today.csv](rwzi_energy_today.csv)<br>
