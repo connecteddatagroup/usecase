@@ -1,17 +1,13 @@
 {
     "objects": [
         {
-            "properties": {
-                "naam": "RWZI Culemborg"
-            },
+            "naam": "RWZI Culemborg",
             "straat": "Parallelweg Oost",
             "nummer": "23a",
             "plaats": "Culemborg"
         },
         {
-            "properties": {
-                "naam": "RWZI Dreumel"
-            },
+            "naam": "RWZI Dreumel",
             "straat": "Kooiweg",
             "nummer": "3",
             "plaats": "Dreumel"
