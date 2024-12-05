@@ -6,8 +6,6 @@ A public repository just for usecase purposes.
 
 -   [api_wsrl_rwzi_punten.csv](api_wsrl_rwzi_punten.csv)<br>
     A CSV dataset through Denodo.
--   [geojson_test.geojson](geojson_test.geojson)<br>
-    A GeoJSON test dataset.
 -   [rwzi_energy_today.csv](rwzi_energy_today.csv)<br>
     Energy usage CSV dataset for only one day (today).
 -   [rwzi_energy_today.geojson](rwzi_energy_today.geojson)<br>
