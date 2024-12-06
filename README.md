@@ -17,6 +17,6 @@ A public repository just for usecase purposes.
 -   [test_wkt.json](test_wkt.json)<br>
     A JSON test dataset, containing WKT (well-known text) geometry information.
 -   [denodo_geojson_point.geojson](denodo_geojson_point.geojson)<br>
-    An API endpoint result of Denodo containing a geometry Point (spatial data).
+    An API endpoint result of Denodo containing a geometry Point (spatial data) in GeoJSON format.
 -   [denodo_geojson_polygon.geojson](denodo_geojson_polygon.geojson)<br>
-    An API endpoint result of Denodo containing a geometry Polygon (spatial data).
+    An API endpoint result of Denodo containing a geometry Polygon (spatial data) in GeoJSON format.
