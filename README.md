@@ -4,6 +4,8 @@ A public repository just for usecase purposes.
 
 ## Content
 
+-   [scrip.md](script.md)<br>
+    A markdown file containing the script.
 -   [wsrl_arcgis_rwzi_punten.csv](wsrl_arcgis_rwzi_punten.csv)<br>
     A CSV dataset through Denodo, containing coordinates and non-spatial attributes.
 -   [rwzi_energy_today.csv](rwzi_energy_today.csv)<br>
