@@ -7,7 +7,7 @@
 
 -   Power BI:
 
-    -   ?
+    -   Rapportage Data Analyst
 
 -   Denodo:
 
@@ -38,7 +38,7 @@
     -   Endpoint:
         - `http://localhost:8999/geojson/mike/views/f_test_json_j_f_test_wkt?$geometry=location_point`
         - `http://localhost:8999/geojson/mike/views/f_test_json_j_f_test_wkt?$geometry=location_polygon`
-    -   ArcGIS:
+    -   ArcGIS Online:
         - `denodo_geojson_point`
         - `denodo_geojson_polygon`
 
@@ -55,4 +55,4 @@
 
 -   Power BI:
 
-    -   ?
+    -   Rapportage Data Scientist
